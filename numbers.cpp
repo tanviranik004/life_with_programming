@@ -10,7 +10,14 @@ int main()
     double f=19.99;
     cout <<f <<"\n" ;
     //cout << "\n";
-    cout << b;
+    cout << b <<"\n";
+
+    float f1=35e3;
+    double d1=12E4;
+
+    cout <<f1 <<"\n";
+    cout << d1 <<"\n";
+
     return 0;
 
 
